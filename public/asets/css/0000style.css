@@ -1,0 +1,100 @@
+.select2-container--default .select2-selection--single {
+    background: transparent;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    background: transparent;
+    height: 80px;
+    font-size: 16px;
+    line-height: 80px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 77px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    border-width: 10px 8px 0 8px !important;
+    margin-left: -20px !important;
+    margin-top: -4px !important;
+}
+.select2-container--default .select2-selection--single {
+    border: 1px solid black;
+    border-radius: 10px;
+    background: #fff;
+    height: 80px !important;
+    line-height: 80px;
+}
+.btn-default {
+    background: transparent;
+}
+#hiddenBox {
+    display: block;
+    width: 100%;
+    position: absolute;
+    bottom: 40px;
+    left: 0;
+}
+.col-md-4 {
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+    float: left;
+}
+#ifYes {
+    padding: 0 0 0 20px;
+    border-radius: 10px;
+    background: #fff;
+    width: 250px;
+    height: 80px;
+    line-height: 80px;
+}
+.dt-button {
+    width: 290px;
+    height: 110px;
+    border-radius: 10px;
+    line-height: 110px;
+    padding: 40px 100px;
+    font-size: 20px;
+    font-weight: normal;
+    color: gray;
+    background: #ffffff;
+}
+.dropdown-menu, .form-control, .modal-content, .popover {
+    width: 195px;
+}
+.col-md-3 {
+    float: left;
+}
+.buy-now, .enter-now{
+    border: 1px solid red;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+#container {
+    margin: 20px;
+    width: 400px;
+    height: 8px;
+    position: relative;
+}
+.household {
+    border: 1px solid black;
+    padding-top: 10px;
+    text-align: center;
+    line-height: 35px;
+}
+#minus-btn, #plus-btn {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.individual {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+}
+#qty_input {
+    text-align: center;
+}
+.footage_table {
+    display: none;
+}
